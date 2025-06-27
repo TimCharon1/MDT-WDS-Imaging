@@ -32,6 +32,8 @@ This tutorial outlines the steps to build and test a Microsoft Deployment Toolki
 1. **Install virtualization software:**
    - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) *(Windows Home OK)*
    - Or enable Hyper-V on Windows Pro
+   - ![image](https://github.com/user-attachments/assets/fc71a9f5-61dc-4593-8d69-624c51aff79e)
+
 
 2. **Download software:**
    - [Windows Server 2019 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
