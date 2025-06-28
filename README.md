@@ -44,6 +44,11 @@ This tutorial outlines the steps to build and test a Microsoft Deployment Toolki
 3. **Create two VMs:**
    - `MDT-SERVER`: Windows Server 2019, 4GB RAM, 40GB disk
    - `CLIENT-1`: Blank VM for PXE booting
+  
+   - ![image](https://github.com/user-attachments/assets/107b7ef8-4158-4af6-8d31-39424c30c574)
+   - ![image](https://github.com/user-attachments/assets/74911df4-6f85-4dc9-88af-12f682a00b23)
+
+
 
 ---
 
