@@ -37,12 +37,16 @@ This tutorial outlines the steps to build and test a Microsoft Deployment Toolki
 
 2. **Download software:**
    - [Windows Server 2019 ISO](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+     ![image](https://github.com/user-attachments/assets/d0244405-a8ff-4a20-bb01-378c37e2629c)
+     ![image](https://github.com/user-attachments/assets/427dfb7b-56c0-429b-b648-8db74527907d)
+
+
    - [Windows 10 or 11 ISO](https://www.microsoft.com/software-download/)
    - [Windows ADK + WinPE](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install)
    - [Microsoft Deployment Toolkit (MDT)](https://www.microsoft.com/en-us/download/details.aspx?id=54259)
 
 3. **Create two VMs:**
-   - `MDT-SERVER`: Windows Server 2019, 4GB RAM, 40GB disk
+   - `MDT-SERVER`: Windows Server 2019, 4GB RAM, 80GB disk
    - `CLIENT-1`: Blank VM for PXE booting
   
    - ![image](https://github.com/user-attachments/assets/107b7ef8-4158-4af6-8d31-39424c30c574)
